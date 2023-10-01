@@ -1,0 +1,7 @@
+C:\Users\Arab\RiderProjects\hwForUniversity\bin\Debug\hwForUniversity.exe
+C:\Users\Arab\RiderProjects\hwForUniversity\bin\Debug\hwForUniversity.pdb
+C:\Users\Arab\RiderProjects\hwForUniversity\obj\Debug\hwForUniversity.csproj.AssemblyReference.cache
+C:\Users\Arab\RiderProjects\hwForUniversity\obj\Debug\hwForUniversity.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arab\RiderProjects\hwForUniversity\obj\Debug\hwForUniversity.csproj.CoreCompileInputs.cache
+C:\Users\Arab\RiderProjects\hwForUniversity\obj\Debug\hwForUniversity.exe
+C:\Users\Arab\RiderProjects\hwForUniversity\obj\Debug\hwForUniversity.pdb
