@@ -13,14 +13,11 @@ namespace LAB2part2
             Console.Write("Enter your money: ");
             string input = Console.ReadLine();
             double userInput;
-            if (double.TryParse(input, out userInput))
-            {}
-            else
+            if (!double.TryParse(input, out userInput))
             {
                 Console.WriteLine("Це не є числом.");
             }
-
-
+            
             switch (valute)
             {
                 case "uah":
