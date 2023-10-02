@@ -4,15 +4,15 @@ namespace LAB2part3
     public class Employee
     {
         private string lastName;
-        private string Name;
+        private string firstName;
         private string position;
         private double salary;
         private int experience;
 
-        public Employee(string lastName, string Name)
+        public Employee(string lastName, string firstName)
         {
             this.lastName = lastName;
-            this.Name = Name;
+            this.firstName = firstName;
         }
 
         public void SetPosition(string position)
@@ -55,7 +55,7 @@ namespace LAB2part3
             double tax = salary * 0.2;
             Console.WriteLine("Information about worker:");
             Console.WriteLine($"Last name: {lastName}");
-            Console.WriteLine($"Name: {Name}");
+            Console.WriteLine($"Name: {firstName}");
             Console.WriteLine($"Position: {position}");
             Console.WriteLine($"Salary: {salary}");
             Console.WriteLine($"Tax: {tax}");
