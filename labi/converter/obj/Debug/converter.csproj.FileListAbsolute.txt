@@ -1,7 +1,0 @@
-C:\Users\Arab\RiderProjects\converter\bin\Debug\converter.exe
-C:\Users\Arab\RiderProjects\converter\bin\Debug\converter.pdb
-C:\Users\Arab\RiderProjects\converter\obj\Debug\converter.csproj.AssemblyReference.cache
-C:\Users\Arab\RiderProjects\converter\obj\Debug\converter.csproj.SuggestedBindingRedirects.cache
-C:\Users\Arab\RiderProjects\converter\obj\Debug\converter.csproj.CoreCompileInputs.cache
-C:\Users\Arab\RiderProjects\converter\obj\Debug\converter.exe
-C:\Users\Arab\RiderProjects\converter\obj\Debug\converter.pdb
