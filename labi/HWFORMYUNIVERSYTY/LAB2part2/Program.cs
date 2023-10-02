@@ -9,8 +9,18 @@ namespace LAB2part2
             Converter converter = new Converter(37.6, 40.5, 9.3);
             Console.WriteLine("Enter your valute - uah , pln , euro , usd");
             string valute = Console.ReadLine();
+            
             Console.Write("Enter your money: ");
-            double userInput = Convert.ToDouble(Console.ReadLine());
+            string input = Console.ReadLine();
+            double userInput;
+            if (double.TryParse(input, out userInput))
+            {}
+            else
+            {
+                Console.WriteLine("Це не є числом.");
+            }
+
+
             switch (valute)
             {
                 case "uah":
