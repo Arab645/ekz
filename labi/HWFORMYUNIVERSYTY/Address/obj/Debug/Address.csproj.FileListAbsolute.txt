@@ -1,7 +1,0 @@
-C:\Users\Arab\RiderProjects\Address\bin\Debug\Address.exe
-C:\Users\Arab\RiderProjects\Address\bin\Debug\Address.pdb
-C:\Users\Arab\RiderProjects\Address\obj\Debug\Address.csproj.AssemblyReference.cache
-C:\Users\Arab\RiderProjects\Address\obj\Debug\Address.csproj.SuggestedBindingRedirects.cache
-C:\Users\Arab\RiderProjects\Address\obj\Debug\Address.csproj.CoreCompileInputs.cache
-C:\Users\Arab\RiderProjects\Address\obj\Debug\Address.exe
-C:\Users\Arab\RiderProjects\Address\obj\Debug\Address.pdb
