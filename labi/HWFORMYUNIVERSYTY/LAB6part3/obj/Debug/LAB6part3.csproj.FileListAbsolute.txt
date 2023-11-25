@@ -1,0 +1,7 @@
+C:\Users\Arab\RiderProjects\HWFORMYUNIVERSYTY\LAB6part3\bin\Debug\LAB6part3.exe
+C:\Users\Arab\RiderProjects\HWFORMYUNIVERSYTY\LAB6part3\bin\Debug\LAB6part3.pdb
+C:\Users\Arab\RiderProjects\HWFORMYUNIVERSYTY\LAB6part3\obj\Debug\LAB6part3.csproj.AssemblyReference.cache
+C:\Users\Arab\RiderProjects\HWFORMYUNIVERSYTY\LAB6part3\obj\Debug\LAB6part3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arab\RiderProjects\HWFORMYUNIVERSYTY\LAB6part3\obj\Debug\LAB6part3.csproj.CoreCompileInputs.cache
+C:\Users\Arab\RiderProjects\HWFORMYUNIVERSYTY\LAB6part3\obj\Debug\LAB6part3.exe
+C:\Users\Arab\RiderProjects\HWFORMYUNIVERSYTY\LAB6part3\obj\Debug\LAB6part3.pdb

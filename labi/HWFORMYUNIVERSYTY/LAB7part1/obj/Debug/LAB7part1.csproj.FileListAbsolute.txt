@@ -1,0 +1,3 @@
+C:\Users\Arab\RiderProjects\HWFORMYUNIVERSYTY\LAB7part1\obj\Debug\LAB7part1.csproj.AssemblyReference.cache
+C:\Users\Arab\RiderProjects\HWFORMYUNIVERSYTY\LAB7part1\obj\Debug\LAB7part1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arab\RiderProjects\HWFORMYUNIVERSYTY\LAB7part1\obj\Debug\LAB7part1.csproj.CoreCompileInputs.cache
