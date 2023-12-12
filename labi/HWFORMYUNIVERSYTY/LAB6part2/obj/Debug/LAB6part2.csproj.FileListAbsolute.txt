@@ -1,3 +1,0 @@
-C:\Users\Arab\RiderProjects\HWFORMYUNIVERSYTY\LAB6part2\obj\Debug\LAB6part2.csproj.AssemblyReference.cache
-C:\Users\Arab\RiderProjects\HWFORMYUNIVERSYTY\LAB6part2\obj\Debug\LAB6part2.csproj.SuggestedBindingRedirects.cache
-C:\Users\Arab\RiderProjects\HWFORMYUNIVERSYTY\LAB6part2\obj\Debug\LAB6part2.csproj.CoreCompileInputs.cache

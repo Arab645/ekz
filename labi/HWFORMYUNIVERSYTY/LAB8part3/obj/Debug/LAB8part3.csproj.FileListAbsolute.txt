@@ -1,7 +1,0 @@
-C:\Users\Arab\RiderProjects\HWFORMYUNIVERSYTY\LAB8part3\obj\Debug\LAB8part3.csproj.AssemblyReference.cache
-C:\Users\Arab\RiderProjects\HWFORMYUNIVERSYTY\LAB8part3\obj\Debug\LAB8part3.csproj.SuggestedBindingRedirects.cache
-C:\Users\Arab\RiderProjects\HWFORMYUNIVERSYTY\LAB8part3\obj\Debug\LAB8part3.csproj.CoreCompileInputs.cache
-C:\Users\Arab\RiderProjects\HWFORMYUNIVERSYTY\LAB8part3\bin\Debug\LAB8part3.exe
-C:\Users\Arab\RiderProjects\HWFORMYUNIVERSYTY\LAB8part3\bin\Debug\LAB8part3.pdb
-C:\Users\Arab\RiderProjects\HWFORMYUNIVERSYTY\LAB8part3\obj\Debug\LAB8part3.exe
-C:\Users\Arab\RiderProjects\HWFORMYUNIVERSYTY\LAB8part3\obj\Debug\LAB8part3.pdb
